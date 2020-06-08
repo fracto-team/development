@@ -1,4 +1,6 @@
-# Fracto's Collaborative Development Environment [![Fracto][fracto-img]][fracto] [![Chat on Gitter][gitter-img]][gitter] [![Repository Size][reposize-img]][repo] [![MIT License][license-img]][license]
+# Fracto's Collaborative Development Environment [![Fracto][fracto-img]][fracto]
+[![Chat on Gitter][gitter-img]][gitter] [![Repository Size][reposize-img]][repo]
+[![MIT License][license-img]][license]
 
 Development is a project focus on collaborative development environment across multiple developers. Its help to organize your work :)
 
