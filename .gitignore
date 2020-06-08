@@ -1,0 +1,8 @@
+# Top-level gitignore file for development environment
+
+## Ignore Company related sections
+/Company
+
+## Ignore all secret files
+*-secret-file*
+
