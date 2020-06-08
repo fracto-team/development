@@ -1,0 +1,34 @@
+# Fracto's Collaborative Development Environment [![Fracto][fracto-img]][fracto]
+[![Chat on Gitter][gitter-img]][gitter] [![Repository Size][reposize-img]][repo] 
+[![MIT License][license-img]][license]
+
+Development is a project focus on collaborative development environment across multiple developers. Its help to organize your work :)
+
+- **Seperated** folders for each language/section of working.
+- Submodules based on this sections and its support **"partial"** initialize/update.
+- **Nested** sections across multiple developers.
+- **Upstream** and **downstream** support for sharing environment.
+
+[![Preview][preview-img]][repo]
+
+## How It Works?
+
+> Todo
+
+## Using
+
+> Todo
+
+## Configuration
+
+> Todo
+
+[preview-img]: https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=monokai&wt=none&l=application%2Fx-sh&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%2524%2520tree%2520-L%25201%250A.%250A%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Android%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Articles%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Examples%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Keystore%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Libraries%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Notes%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Projects%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520README.md%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520SDK%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Tools%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%2594%25E2%2594%2580%25E2%2594%2580%2520Tutorials%250A%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520PHP%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Articles%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Examples%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Libraries%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Notes%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Projects%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Tools%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%2594%25E2%2594%2580%25E2%2594%2580%2520Tutorials%250A...%250A%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Projects%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520Project1%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520PrivateProjectNotPublished%250A%25E2%2594%2582%25C2%25A0%25C2%25A0%2520%25E2%2594%2594%25E2%2594%2580%25E2%2594%2580%2520Project3%250A%25E2%2594%259C%25E2%2594%2580%25E2%2594%2580%2520README.md%250A%25E2%2594%2594%25E2%2594%2580%25E2%2594%2580%2520Tools%250A%2520%2520%2520%2520%25E2%2594%2594%25E2%2594%2580%25E2%2594%2580%2520generator.py
+[fracto-img]: https://img.shields.io/badge/Fracto-Project-informational
+[fracto]: https://fracto.net
+[gitter]: https://...
+[gitter-img]: https://img.shields.io/gitter/room/fracto-team/fracto
+[repo]: https://...
+[reposize-img]: https://img.shields.io/github/languages/code-size/fracto-team/development
+[license]: https://...
+[license-img]: https://img.shields.io/github/license/erayaydin/development
